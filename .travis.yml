@@ -1,0 +1,4 @@
+langauge: bash
+
+script:
+  - echo foo
